@@ -47,12 +47,9 @@ END
 **Output:**  
 <img width="1919" height="1116" alt="Screenshot 2025-10-03 082936" src="https://github.com/user-attachments/assets/b31623b3-9474-4753-83be-5c144cbd8741" />
 
-
 <br>
 <br>
 <br>
-
-
 
 **Manual Calculations:** 
 ![WhatsApp Image 2025-10-26 at 21 16 43_ade441fd](https://github.com/user-attachments/assets/ee664a17-537d-4bc1-b4a9-9094eee10a77)
